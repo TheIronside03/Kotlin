@@ -68,7 +68,7 @@ fun main(args: Array<String>) {
     val fName = "Bruce"
     val lName = "Wayne"
 
-    var fullName = "Hiren Desai"
+    var fullName = "Bruce Wayne"
 
     println("first name + last name: ${fName+lName}")
 
